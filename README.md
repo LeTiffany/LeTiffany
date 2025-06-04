@@ -16,3 +16,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=LeTiffany&theme=aura_dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💻 YouTube Demonstrations
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+[![CSC 346 Project 8 Demo](https://ytcards.demolab.com/?id=MwNH6bhYA3M&title=Server+Web+Interface+Demo&lang=en&timestamp=1746326400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231
+ "CSC 346 Project 8 Demo")](https://youtu.be/MwNH6bhYA3M?feature=shared)
+[![CSC 346 Project 7 Demo](https://ytcards.demolab.com/?id=IwiyTkR-cDA&title=Server+Command+Line+Demo&lang=en&timestamp=1745020800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171
+ "CSC 346 Project 7 Demo")](https://youtu.be/IwiyTkR-cDA?feature=shared)
+[![Top Songs: Rolled Up and Wrapped!](https://ytcards.demolab.com/?id=8XV-8EQ7HhI&title=Top+Songs:+Rolled+Up+and+Wrapped!&lang=en&timestamp=1733616000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=296 "Top Songs: Rolled Up and Wrapped!")](https://youtu.be/8XV-8EQ7HhI?feature=shared)
